@@ -1,0 +1,504 @@
+	
+Wiktionary:Abbreviations in Webster
+
+The 1913 Webster Unabridged Dictionary is often used as a source for definitions, as its copyright has expired so it is in the public domain. Numerous abbreviations, sometimes not intuitive, appear in the source; this page catalogs them for reference.
+
+A
+
+    a., adj. = adjective
+    abbrev. = abbreviated
+    abl. = ablative
+    Abp. = Archbishop
+    acc. = accusative
+    Acous. = Acoustics
+    act. = active
+    adv. = adverb
+    Agric. = Agriculture
+    Alban. = Albanian
+    Alg. = Algebra
+    Am., Amer. = America, American
+    Am. = Amos
+    Am. Cyc. = Appleton's American Cyclopedia
+    Anal. Geom. = Analytical Geometry
+    Anat. = Anatomy
+    Anc. = Ancient, anciently
+    Angl. Ch. = Anglican Church
+    Antiq. = Aniquities
+    aor. = aorist
+    Ar. = Arabic
+    Arch. = Architecture
+    Arch. Pub. Soc. = Architectural Pub. Society
+    Arith. = Arithmetic
+    Arm., Armor. = Armorican
+    AS. = Anglo-Saxon. We classify this as "Old English", so use {{etyl|ang}}.
+    Astrol. = Astrology
+    Astron. = Astronomy
+    aug. = augmentative
+
+B
+
+    Bank. = Banking
+    Beau. & Fl. = Beaumont & Fletcher
+    B. & Fl. = Beaumont & Fletcher
+    Bib. = Biblical
+    Bib. Sacra = Bibliotheca Sacra
+    Bibliog. = Bibliography
+    Biol. = Biology
+    Bisc. = Biscayan
+    B. Jon. = Ben Jonson
+    Bk. of Com. Prayer = Book of Common Prayer
+    Blackw. Mag. = Blackwood's Magazine
+    Bohem. = Bohemian
+    Bot. = Botany, botanical
+    Bp. = Bishop
+    Brande & C. = Brande & Cox
+    Braz. = Brazilian
+    Brit. Critic = British Critic
+    Brit. Quar. Rev. = British Quarterly Review
+    Burl. = Burlesque
+
+C
+
+    C. = Centigrade
+    Cant. = Canticles (Song of Solomon)
+    Carp. = Carpentry
+    Catal. = Catalan
+    Cath. Dict. = Catholic Dictionary
+    Celt. = Celtic
+    cf. = confer
+    Ch. = Church
+    Chald. = Chaldee
+    Chem. = Chemistry
+    Ch. Hist. = Church History
+    Chin. = Chinese
+    Chron. = Chronology, Chronicles
+    Civ. = Civil
+    Class. = Classical
+    Class. Myth. = Classical Mythology
+    Col. = Colossians
+    colloq., coll. = colloquial, colloquially
+    Com. = Commerce, Common
+    comp. = compound, compounded, composition
+    compar. = comparative
+    conj. = conjunction
+    Con. Sect. = Conic Sections
+    contr. = contracted, contraction
+    Copt. = Coptic
+    Corn. = Cornish
+    corrupt. = corrupted, corruption
+    Cotgr. = Cotgrave
+    Cyc. Med. = Cyclopedia of Practical Medicine
+    Crim. Law = Criminal Law
+    Crystallog. = Crystallography
+    Cyc. = Cyclopedia
+
+D
+
+    D. = Dutch (sometimes Daniel)
+    Dan. = Danish
+    dat. = dative
+    def. = definitions
+    Deut. = Deuteronomy
+    Dial. = Dialectic
+    dim. = diminutive
+    Diosc. = dioscorides
+    Disp. = Dispensatory
+    Disus. = Disused
+    Dom. Econ. = Domestic Economy
+    Dublin Univ. Mag. = Dublin University Magazine
+    Dyn. = Dynamics
+
+E
+
+    E. = English
+    Eccl. = Ecclesiastical, Ecclesiastes
+    Eccl. Hist. = Ecclesiastical History
+    Ecclus. = Ecclesiasticus
+    Eclec. Rev. = Eclectic Review
+    Ed. Rev. = Edinburgh Review
+    e. g. = <it>exempli gratia</it> (for example)
+    Egypt. = Egyptian
+    Elect. = Electricity, Electrical
+    emph. = emphatic
+    Encyc. = Encyclopedia
+    Encyc. Amer. = Encyclopedia Americana
+    Encyc. Crit. = Encyclopedia Britannica
+    Encyc. Dict. = Hunter's Encyclopedic Dictionary
+    Eng. = England, English
+    Eng. = Engraving
+    Eng. Cyc. = English Cyclopedia
+    Engin. = Engineering
+    Eol. = Eolic
+    Eph., Ephes. = Ephesians
+    equiv. = equivalent
+    Esd. = Esdras
+    esp. = especially
+    Etch. & Eng. = Etching & Engraving
+    Ethnol. = Ethnology
+    etym., etymol. = etymology
+    Ex., Exod. = Exodus
+    Ezek. = Ezekiel
+
+F
+
+    F. = French
+    f., fem. = feminine
+    Fahr. = Fahrenheit
+    Far. = Farriery
+    Feud. = Feudal
+    Fig. = Figurative, figuratively
+    Fin. = Finnish
+    For. Quart. Rev. = Foreign Quarterly Review
+    Fort. = Fortification
+    Fr. = French
+    fr. = from
+    freq. = frequentative
+    Fries. = Friesic
+    fut. = future
+
+G
+
+    G. = German - use {{etyl|de}}
+    Gael. = Gaelic
+    Gal. = Galen
+    Gal. = Galatians
+    Galv. = Galvanism
+    gen. = generally, genitive
+    Geneal. = Genealogy
+    Gent. Mag. = Gentleman's Magazine
+    Geog. = Geography
+    Geol. = Geology
+    Geom. = Geometry
+    Ger. = Germanic or German
+    Gk. = Greek
+    Goth. = Gothic
+    Gov. of Tongue = Government of the Tongue
+    Gr. = Greek
+    Gram. = Grammar
+    Gris. = Grisons
+    Gun. = Gunnery
+
+H
+
+    H. = High
+    Hab. = Habakkuk
+    Hag. = Haggai
+    Ham. Nav. Encyc. = Hamersly's Naval Encyclopedia
+    Heb. = Hebrew
+    Her. = Heraldry
+    Hind. = Hindostanee
+    Hipp. = Hippocrates
+    Hist. = History
+    Horol. = Horology
+    Hort. = Horticulture
+    Hung. = Hungarian
+    Hydraul. = Hydraulics
+    Hydros. = Hydrostatics
+    hypoth. = hypothetical
+
+I
+
+    Icel. = Icelandic
+    i. e. = id est (that is)
+    Illust. = Illustration, Illustrated
+    imp. = imperfect
+    Imp. Dict. = Imperial Dictionary
+    incho. = inchoative
+    ind. = indicative
+    indef. = indefinite
+    inf. = infinitive
+    intens. = intensive
+    interj. = interjection
+    Internat. Cyc. = International Cyclopeia
+    Ion. = Ionic
+    i. q. = idem quod(the same as)
+    Ir. = Irish
+    Is., Isa. = Isaiah
+    It. = Italian
+
+J
+
+    Jap. = Japanese
+    Jas. = James
+    Jav. = Javanese
+    Jer. = Jeremiah
+    Join. = Joinery
+    Josh. = Joshua
+    Judg. = Judges
+
+K
+
+    K. = Kings
+
+L
+
+    L. = Latin
+    L. = Low
+    Lam. = Lamentations
+    Lapp. = Lappish
+    Lat. = Latin
+    LD. = Low Dutch
+    Lett. = Lettish
+    Lev. = Leviticus
+    LG. = Low German
+    LGr. = Low Greek
+    Linn. = Linnæus
+    Lit., lit. = Literally, literally
+    Lit. = Literature
+    Lith. = Lithuanian
+    LL. = Late Latin - {{LL.}}
+
+M
+
+    M. = Middle
+    m., masc. = masculine
+    Maced. = Macedonian
+    Mach. = Machinery
+    Mad. = Madam
+    Mag. = Magazine
+    Mal. = Malachi
+    Malay. = Malayan
+    Man. = Manège
+    Manuf. = Manufacturing
+    Mar. = Maritime
+    Math. = Mathematics, Mathematical
+    Matt. = Matthew
+    ME. = Middle English - {{etyl|enm}}
+    Mech. = Mechanic
+    Med. = Medicine
+    Metal. = Metallurgy
+    Metaph. = Metaphysics
+    Meteor. = Meteorolgy
+    mgr. = milligrams
+    MHG. = Middle High German - {{etyl|gmh}}
+    Micros. = Microscopy
+    Mil. = Military
+    Min. = Mineralogy
+    Mir. for Mag. = Mirror for Magistrates
+    MLG. = Middle Low German
+    Moham. = Mohammedan
+    Mozley & W. = Mozley & Whiteley
+    Mus. = Music
+    Myst. = Mysteries
+    Myth. = Mythology
+
+N
+
+    N. = New
+    n. = noun
+    Nat. Hist. = Natural History
+    Nat. ord. = Natural order
+    Naut. = Nautical
+    Nav. = Navy
+    Navig. = Navigation
+    N. Brit. Rev. = North British Review
+    Neh. = Nehemiah
+    neut. = neuter
+    New Am. Cyc. = New American Cyclopedia
+    New Month. Mag. = New Monthly Magazine
+    NF. = New French
+    NGr. = Mew Greek
+    NHeb. = New Hebrew
+    NL. = New Latin - {{NL.}}
+    nom. = nominative
+    Norm. F. = Norman French
+    North Am. Rev. = North American Review
+    Norw. = Norwegian
+    Num. = Numbers
+    Numis. = Numismatics
+
+O
+
+    O. = Old
+    Ob. = Obadiah
+    obs. = obsolete
+    Obsoles. = Obsolescent
+    OCelt. = Old Celtic
+    OD. = Old Dutch - {{etyl|odt}}
+    ODan. = Old Danish
+    OE. = Old English. We classify this as the early part of "Middle English", so use template {{etyl|enm}}. See the Webster 1913 entry on "English"
+    OF. = Old French - {{etyl|fro}}
+    OFelm. = Old Flemish
+    OFris., OFries. = Old Frisian (Old Friesic)- {{etyl|ofs}}
+    OGael. = Old Gaelic
+    OGr. = Old Greek
+    OHG. = Old High German - {{etyl|goh}}
+    OIcel. = Old Icelandic
+    OIt. = Old Italian
+    OL. = Old Latin
+    Olr. (typo) or OIr = Old Irish - {{etyl|sga}}
+    ON. = Old Norse - {{etyl|non}}
+    OLG. = Old Low German
+    OPer. = Old Persian - {{etyl|peo}}
+    OPg. = Old Portuguese
+    OPol. = Old Polish
+    Opt. = Optics
+    orig. = original, originally
+    Ornith. = Ornithology
+    OS. = Old Saxon - {{etyl|osx}}
+    OSlav. = Old Slavic
+    OSp. = Old Spanish - {{etyl|osp}}
+    Oxf. Gloss. = Oxford Glossary of Architecture
+
+P
+
+    p. = participle, page
+    p. a. = participial adjective
+    Paint. = Painting
+    Paleon. = Paleontology
+    pass. = passive
+    Pathol. = Pathology
+    P. Cyc. = Penny Cyclopedia
+    Per. = Persian
+    perh. = perhaps
+    pers. = person
+    Persp. = Perspective
+    Pert. = Pertaining
+    Peruv. = Peruvian
+    Pet. = Peter
+    Pg. = Portuguese
+    Pharm. = Pharmacy, Pharmacopœia
+    Phil. = Phillipians
+    Philem. = Philemon
+    Philol. = Philology
+    Philos. = Philosophy
+    Phon. = Phonetics
+    Photog. = Photography
+    Photom. = Photometry
+    Phren. = Phrenology
+    Phys. = Physics
+    Phys. Sci. = Physical Science
+    Physiol. = Physiology
+    pl. = plural
+    Poet. = Poetry, Poetical
+    Pol. = Polish
+    Pol. Econ. = Political Economy
+    Polit. Econ. = Political Economy
+    Pop. Sci. Monthly = Polular Science Monthly
+    pp. = pages
+    P. Plowman = Piers Plowman
+    p.p. = past participle
+    p.pr., p.ple. = present participle
+    Pr. = Provençal
+    Pref. = Preface
+    pref. = prefix
+    prep. = preposition
+    pres. = present
+    pret. = preterit
+    prin. = principally
+    Print. = Printing
+    priv. = privative
+    prob. = probably
+    pron. = Pronunciation, pronounced, pronoun
+    prop. = properly
+    Pros. = Prosody
+    prov. = provincial
+    Prov. = Provincial
+    Prov. = Proverbs
+    Ps., Psa. = Psalms
+    Pyro.-elect. = Pyro-electricity
+
+Q
+
+    Quart. Rev. = Quarterly Review
+    q. v. = quod vide (which see)
+
+R
+
+    R. = Rare
+    R. C. = Roman Catholic
+    R. C. Ch. = Roman Catholic Church
+    Rep. Sec. of War = Report of Secretary of War
+    Rev. = Revelation
+    Rev. = Review
+    Rev. Ver. = Revised Version (of the Bible)
+    Rhet. = Rhetoric
+    R. of Brunne = Robert of Brunne
+    R. of Gl. = Robert of Gloucester
+    Rom. = Roman, Romans
+    Rom. Cath. = Roman Catholic
+    Rom. of R. = Romaunt of the Rose
+    Rpts. = reports
+    Russ. = Russian
+
+S
+
+    Sam. = Samaritan
+    Sam. = Samuel
+    Sat. Rev. = Saturday Review
+    Sax. = Saxon
+    sc. = scilicet (being understood)
+    Scand. = Scandinavian
+    Sci. = Science
+    Sci. Am. = Scientific American
+    Scot. = Scotland, Scottish
+    Script. = Scripture, Scriptural
+    Sculp. = Sculpture
+    Serb = Serbian
+    Serv. = Servian
+    Shak. = Shakespeare
+    sing. = singular
+    Skr. = Sanskrit
+    Slav. = Slavonic
+    Sp. = Spanish
+    Specif. = Specifically
+    Stat. = Statuary
+    subj. = subjunctive
+    superl. = superlative
+    Surg. = Surgery
+    Surv. = Surveying
+    Sw. = Swedish
+    Syd. Soc. Lex. = Sydenham Society Lexicon
+    Syn. = Synonyms
+    Synop. = Synopsis
+    Syr. = Syriac
+
+T
+
+    Tart. = Tartaric
+    Teleg. = Telegraphy
+    term. = termination
+    Test. = Testament
+    Theol. = Theology
+    Thes. = Thessalonians
+    Tim. = Timothy
+    Todd & B. = Todd & Bowman
+    Trans. = Translation
+    Treas. = Treasury
+    Trig. = Trigonometry
+    Turk. = Turkish
+    Typog. = Typography
+
+U
+
+    Univ. = University
+    Up. = Upper
+    U. S. = United States
+    U. S. Disp. = United States Dispensatory
+    U. S. Pharm. = United States Pharmacopœia
+    U. S. Int. Rev. Statutes = United States Internal Revenue Statutes
+    usu. = usually
+
+V
+
+    v. = verb
+    v.i. = intransitive verb
+    v.t. = transitive verb
+    var. = variety
+    vb.n. = verbal noun
+    Veter. = Veterinary
+    Vitr. = Vitruvius
+
+W
+
+    W. = Welsh
+    Wall. = Wallachian
+    Westm. Cat. = Westminster Catechism
+    Westm. Rev. = Westminster Review
+
+Z
+
+    Zech. = Zechariah
+    Zeph. = Zephaniah
+    Zoöl. = Zoölogy
+
